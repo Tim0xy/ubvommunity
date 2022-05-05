@@ -1,0 +1,16 @@
+{
+    "qrcodegen": false,
+    "advancements": false,
+    "blank": false,
+    "bomb": false,
+    "quote": false,
+    "code": false,
+    "demotivator": false,
+    "info": false,
+    "interactive_commands": false,
+    "ping": false,
+    "random_case": false,
+    "settings": false,
+    "show_config": false,
+    "helptext": false
+}

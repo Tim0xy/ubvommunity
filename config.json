@@ -1,0 +1,11 @@
+{
+    "token": "token",
+    "owm_api_key": "key",
+    "user_id": "vk id",
+    "debug": true,
+    "prefix": "!",
+    "delete_after": 0,
+    "bomb_time": 10,
+    "send_info_in_dm": true,
+    "edit_or_send": "edit"
+}
